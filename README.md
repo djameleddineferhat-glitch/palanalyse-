@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Palstream - Analyse des Pals de Palworld
 
 Analyse exploratoire de Palworld avec Paldex visuel, stats de combat et production de campement.
@@ -45,6 +44,3 @@ pals-analysis/
 | Zones | Niveaux et zones d apparition |
 | Boss | Tower Boss et Ordinary Boss |
 | Explorateur | Filtres multi-criteres |
-=======
-# palanalyse-
->>>>>>> 4104e47e503d53f32b58850f6a16ac45380fdb17
